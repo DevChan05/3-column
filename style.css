@@ -102,7 +102,7 @@ padding: 40px 35px;
 
 @media (min-width:900px){
     .container-cards{
-        margin: 250px 0;
+       margin-top: 7%;
     }
 
     .card-two{
